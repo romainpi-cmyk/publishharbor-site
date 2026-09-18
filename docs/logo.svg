@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title">
+<title>PublishHarbor logo</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#15162a"/><stop offset="1" stop-color="#090a16"/></linearGradient>
+  <linearGradient id="p" x1=".1" y1=".9" x2=".85" y2=".1"><stop stop-color="#3b82f6"/><stop offset=".55" stop-color="#7c3aed"/><stop offset="1" stop-color="#d946ef"/></linearGradient>
+</defs>
+<rect x="28" y="28" width="968" height="968" rx="220" fill="url(#bg)"/>
+<path d="M300 205h255c168 0 282 93 282 244 0 155-114 247-282 247H460v143c0 44-32 74-79 74h-81V205zm160 142v207h94c76 0 121-37 121-104 0-66-45-103-121-103h-94z" fill="url(#p)"/>
+<path d="M535 398c0-23 25-37 45-25l132 79c20 12 20 41 0 53l-132 79c-20 12-45-2-45-25V398z" fill="#fff"/>
+</svg>
